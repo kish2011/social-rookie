@@ -18,7 +18,7 @@
 
 		<?php if ( ! bp_is_current_component_core() ) : ?>
 
-		<div class="item-list-tabs no-ajax" id="subnav">
+		<div class="item-list-tabs no-ajax member-group-list" id="subnav">
 			<ul>
 				<?php bp_get_options_nav(); ?>
 
