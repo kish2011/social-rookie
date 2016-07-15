@@ -9,10 +9,8 @@ Template: rookie
 */
 
 /**
- * The parent theme's CSS is automatically included so there is no need
- * to use the @import rule to include the parent theme CSS.
+ * The @import rule to include the parent theme CSS.
  */
-
 
 @import url('../rookie/style.css');
 
