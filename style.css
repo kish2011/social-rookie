@@ -466,9 +466,6 @@ span.select.null-wrapper{
     display: inline-block;
     border-bottom: 1px solid #ddd;
 }
-.members .dir-list{
-    width:75%;
-}
 .member-group-list{
     margin: 24px 0;
 }
